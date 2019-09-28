@@ -1,0 +1,10 @@
+famous_person = " \n\tAlbert Einstein \t\n"
+print("开始")
+print(famous_person)
+print("开始")
+print(famous_person.lstrip())
+print("开始")
+print(famous_person.rstrip())
+print("开始")
+print(famous_person.strip())
+print("结束")

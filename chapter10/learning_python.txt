@@ -1,3 +1,0 @@
-In Python you can use list
-In Python you can use dic
-In Python you can do not input ;
